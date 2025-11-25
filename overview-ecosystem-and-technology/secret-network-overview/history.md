@@ -100,3 +100,9 @@ June sees the announcement of a new Executive director for the new secret founda
 \
 Additionally the version 1.9 upgrade brings Secret-VRF, the first of many Privacy as a Service APIs accesible cross-IBC and even on EVM. Meanwhile Yoiu launches on mainnet with the Fina IDO and Airdrop following suit.
 
+#### November 2025 - Secret Network implements "Proof of Cloud"
+
+Secret Network implements "Proof of Cloud" validator requirements in response to researchers demonstrating physical attack vectors against SGX hardware. Validators must now either run on approved cloud infrastructure where hardware attestation proves protection against physical tampering, or pass a governance vote as a known entity. This security-focused transition maintains network accessibility while significantly strengthening privacy guarantees against real-world attack scenarios.
+
+
+
